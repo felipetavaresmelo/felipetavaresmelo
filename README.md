@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on CI&T Software
-- 🌱 I’m currently learning Java, Angular, ...
+- 🌱 I’m currently learning Java, Angular and english
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about Java, Angular ... -->
