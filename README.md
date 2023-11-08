@@ -13,17 +13,15 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetavaresmelo&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetavaresmelo&show_icons=true&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetavaresmelo&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetavaresmelo&show_icons=true&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/apitop-langs/?username=felipetavaresmelo&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/apitop-langs/?username=felipetavaresmelo&show_icons=true&layout=compact" />
 </picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetavaresmelo&layout=compact&theme=transparent)
 
 <div style="display: inline_block" ><br>
   <img align="center" alt="spring" height="30" width="40"
