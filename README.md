@@ -1,9 +1,8 @@
-<div style="display: flex" >
-    ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipetavaresmelo&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetavaresmelo&layout=compact&theme=transparent)
-</div>
-    
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipetavaresmelo&show_icons=true&theme=transparent&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetavaresmelo&layout=compact&theme=transparent&locale=pt-br)
+
 <div style="display: inline_block" ><br>
   <img align="center" alt="spring" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
