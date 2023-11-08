@@ -1,6 +1,6 @@
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipetavaresmelo&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetavaresmelo&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetavaresmelo&layout=compact)
     
 <div style="display: inline_block" ><br>
   <img align="center" alt="spring" height="30" width="40"
