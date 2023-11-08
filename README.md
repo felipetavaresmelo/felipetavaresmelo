@@ -1,6 +1,10 @@
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipetavaresmelo&show_icons=true&theme=transparent)
+<div>
+    ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipetavaresmelo&show_icons=true&theme=transparent)    
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetavaresmelo&layout=compact&theme=transparent)
+<div>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetavaresmelo&layout=compact&theme=transparent)
+</div>
     
 <div style="display: inline_block" ><br>
   <img align="center" alt="spring" height="30" width="40"
