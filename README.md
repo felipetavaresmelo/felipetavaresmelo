@@ -5,6 +5,9 @@
     <img height="180em" width="415px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetavaresmelo&layout=compact&langs_count=7&theme=dark" />
 </div>
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipetavaresmelo&show_icons=true&theme=transparent)
+    
 <div style="display: inline_block" ><br>
   <img align="center" alt="spring" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
